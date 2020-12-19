@@ -5,5 +5,6 @@ public class Git2 {
         Scanner input = new Scanner(System.in);
         String name = input.nextLine();
         System.out.println("Hello, my name is " + name);
+        System.out.println("And you?");
     }
 }
